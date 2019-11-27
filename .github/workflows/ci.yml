@@ -1,0 +1,22 @@
+on:
+  push:
+    branches:
+      - master
+
+name: Hugo buildDrafts
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v1
+
+    - name: hugo setup and buildDrafts
+      run: |
+        # testing actions/checkout@v1
+        sudo apt-get install hugo
+        hugo version
+        hugo -D -d /docs

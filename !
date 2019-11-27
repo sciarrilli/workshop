@@ -1,0 +1,21 @@
+on:
+  push:
+    branches:
+      - master
+
+name: Hugo build
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v1
+
+    - name: Install Hugo and buildDeploy
+      run: |
+        # testing actions/checkout@v1
+        sudo apt-get install hugo
+        hugo version
