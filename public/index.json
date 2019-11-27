@@ -1,0 +1,92 @@
+[
+{
+	"uri": "http://tgw.neeco.io/basics/",
+	"title": "Basics",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 1 Basics Discover what this Hugo theme is all about and the core concepts behind it.\n"
+},
+{
+	"uri": "http://tgw.neeco.io/meat/",
+	"title": "Meat",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 2 Meat Discover what this Hugo theme is all about and the core concepts behind it.\n"
+},
+{
+	"uri": "http://tgw.neeco.io/potatoes/",
+	"title": "Potatoes",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 3 Potatoes Discover what this Hugo theme is all about and the core concepts behind it.\n"
+},
+{
+	"uri": "http://tgw.neeco.io/advanced/",
+	"title": "Advanced",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 4 Advanced Discover what this Hugo theme is all about and the core concepts behind it.\n"
+},
+{
+	"uri": "http://tgw.neeco.io/advanced/second-content/",
+	"title": "Second Content",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://tgw.neeco.io/potatoes/second-content/",
+	"title": "Second Content",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://tgw.neeco.io/meat/second-content/",
+	"title": "Second Content",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://tgw.neeco.io/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "Workshop This is an aws workshop for networking\n"
+},
+{
+	"uri": "http://tgw.neeco.io/meat/first-content/",
+	"title": "First Content",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://tgw.neeco.io/basics/first-content/",
+	"title": "First Content",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://tgw.neeco.io/basics/second-content/",
+	"title": "Second Content",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://tgw.neeco.io/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://tgw.neeco.io/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
