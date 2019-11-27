@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TGW Workshop ::</title>
+    <title>Transit Gateway Workshop on TGW Workshop ::</title>
     <link>http://tgw.neeco.io/</link>
-    <description>Recent content on TGW Workshop ::</description>
+    <description>Recent content in Transit Gateway Workshop on TGW Workshop ::</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Nov 2019 14:33:45 -0800</lastBuildDate>
@@ -17,7 +17,9 @@
       <pubDate>Wed, 27 Nov 2019 14:33:45 -0800</pubDate>
       
       <guid>http://tgw.neeco.io/meat/first-content/</guid>
-      <description></description>
+      <description>Lorem markdownum viridi. Qua quam quod nymphae est adire, nefandum!
+Ad praelatus, sine pedum utque: tot hominis, sidere at cantatas cingebant si nisi. Diva ego caelum sceptroque ille. Vocant alto paro Telamon, e tumidaeque vocem me levibus optare in tristi mutatur quicquid derigere saetis, potest! Laceranda ancora laboro poposcit Aegides ferae caelique membris.
+Mea dare novissimus ad tota Nostrae pharetras inportunusque artificem amato Tritonida ad sic hanc occiderat aures retinente et.</description>
     </item>
     
     <item>
@@ -26,7 +28,9 @@
       <pubDate>Wed, 27 Nov 2019 12:47:41 -0800</pubDate>
       
       <guid>http://tgw.neeco.io/basics/first-content/</guid>
-      <description></description>
+      <description>Lorem markdownum viridi. Qua quam quod nymphae est adire, nefandum!
+Ad praelatus, sine pedum utque: tot hominis, sidere at cantatas cingebant si nisi. Diva ego caelum sceptroque ille. Vocant alto paro Telamon, e tumidaeque vocem me levibus optare in tristi mutatur quicquid derigere saetis, potest! Laceranda ancora laboro poposcit Aegides ferae caelique membris.
+Mea dare novissimus ad tota Nostrae pharetras inportunusque artificem amato Tritonida ad sic hanc occiderat aures retinente et.</description>
     </item>
     
   </channel>
