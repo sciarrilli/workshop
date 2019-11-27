@@ -1,0 +1,12 @@
+baseURL = "http://tgw.neeco.io/"
+languageCode = "en-us"
+title = "TGW Workshop ::"
+theme = "hugo-theme-learn"
+
+[params]
+themeVariant = "blue"
+showVisitedLinks = true
+author = "nsci@amazon.com"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
